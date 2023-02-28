@@ -5,7 +5,7 @@ The main objectives of this project are to provide a safe way to conduct auction
 
 The user will be able to enroll a player for auction. Every time a player is registered, the player name and the base price will be asked. The user will also be able to register a team which will take part in the auction. Every time a team is registered, the team will be given a purse value of 50 crores for the auction. When the auction starts all the teams will asked to bid for all the players one by one. The team with the maximum bid will own the player. If no team bids for a particular player then that player will be termed as unsold. Every time a player or a team is created, an object is created.  Teams can also list their players and buy player from the transfer market. 
 
-**Hardware Requirements:-**
+**HARDWARE REQUIREMENTS:-**
 1. **RAM** – 3 GB or more
 2. **Processor** – Intel Core i3 or better
 
