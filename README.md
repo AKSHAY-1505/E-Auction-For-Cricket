@@ -8,6 +8,6 @@ The user will be able to enroll a player for auction. Every time a player is reg
 **Hardware Requirements:-**
 1. **RAM** – 3 GB or more
 2. **Processor** – Intel Core i3 or better
- SOFTWARE REQUIREMENTS:-
+ **SOFTWARE REQUIREMENTS:-**
  1. **Eclipse IDE**
  2. **Operating System** – Windows 7 or higher 
